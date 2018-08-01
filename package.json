@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-worker",
+  "version": "1.0.0",
+  "description": "puppeteer with workers ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "swirfneblin@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "1.5.0"
+  }
+}

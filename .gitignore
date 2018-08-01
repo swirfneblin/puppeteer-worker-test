@@ -52,10 +52,13 @@ typings/
 *.tgz
 
 # Yarn Integrity file
-.yarn-integrity
+.yarn-integrity*
 
-# dotenv environment variables file
+# dotenv enviro*
 .env
 
-# next.js build output
+# next.js build*
 .next
+
+# pngs
+*.png
